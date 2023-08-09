@@ -16,3 +16,13 @@ Sistema para generar el oficio de revalidación para los alumnos de la Escuela d
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/5.jpg" width="800" alt="Laravel Logo"></a></p>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/6.jpg" width="800" alt="Laravel Logo"></a></p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/7.jpg" width="800" alt="Laravel Logo"></a></p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/8.jpg" width="800" alt="Laravel Logo"></a></p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/9.jpg" width="800" alt="Laravel Logo"></a></p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/alanarmandochavezcruz/revalidacion/blob/main/public/images/10.jpg" width="800" alt="Laravel Logo"></a></p>
+
